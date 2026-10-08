@@ -226,7 +226,7 @@ FROM ACTIVIDADES_FISICAS
 WHERE GIRADO = 0
 GROUP BY DEPARTAMENTO
 ORDER BY CANT_PRESUPUESTO_CERO DESC;
---Se observa el conteo de forma descendentemente por departamento de cuantos se le asignó S/0.00 de presupuesto con la finalidad de considerarlos observados.
+--Se observa el conteo de forma descendente por departamento de cuantos se le asignó S/0.00 de presupuesto con la finalidad de considerarlos observados.
 ```
 ![imagen de baner](./picture/PRESUPUESTO%200.00%20II.jpg)
 
