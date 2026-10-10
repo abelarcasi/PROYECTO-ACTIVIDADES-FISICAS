@@ -1,5 +1,5 @@
 # Análisis de práctica de actividades recreativas en la población peruana, durante el año 2021
-Proyecto de data analitics
+Proyecto de data analytics
 
 ## Resumen del proyecto
 
